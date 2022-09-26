@@ -29,4 +29,3 @@ de se movimentar por um planeta.
 da tabela necessária, porém não obtive sucesso.
 - Li o artigo sobre a utilização dos getters e setters, entendi a forma como deveria ser feito, porém tive um pouco de
 dificuldade em utilizá-los da forma como foi solicitado, talvez por conta dos hábitos do projeto atual.
-- 
